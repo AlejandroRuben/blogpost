@@ -9,5 +9,10 @@
 * Trucos muy locos del profesor.
 * Las personalidades múltiples de Freddy
 * Creado por el increíble Alejandro
+<<<<<<< HEAD
+=======
+* Incluye ejemplos en Linux, Windows y Mac.
+* Disponible para todas la edades.
+>>>>>>> readme-mejorado
 
 Y como un amable recordatorio: **Este readme.md es un chiste**. Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ver [el curso](http://sass "el curso")
